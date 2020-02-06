@@ -1,0 +1,98 @@
+
+    <style type="text/css">
+      html, body {   
+        height: 100%;
+        width: 100%;
+       
+      
+      }
+   
+      body {
+        margin: 0;
+        font-family: leander-script-pro, sans-serif;
+       font-style: normal;
+       font-weight: 400;
+
+      }
+      main {
+        background-color:  whitesmoke;
+        display:grid;
+        height: 100%;
+    
+      }
+      div.foreground {
+        align-content: center;
+        margin-left: auto;
+    margin-right: auto;
+    width: 65em;
+      }
+      .leftside {
+        margin: 20px 5px 0px 20px;
+        float: center;
+        width: 95%;
+        height: 100%;
+        padding: 0;
+      }
+    #headline
+     {
+         width: 989px;
+      padding 55px;
+      margin: 0 0 0 0;
+      background-color:orange;
+      font-family: worker, serif;
+font-style: normal;
+font-weight: 300;
+font-size: x-large;
+text-align: center;
+    }
+    #subinfo {
+
+    }
+    #maincontent {
+      margin: 20px 0px 0px 0px;
+      float: center;
+      width 200%;
+    }
+  h2{font-family: worker, serif;
+font-style: normal;
+font-weight: 300;
+background-color:burlywood;}
+    footer {
+     
+      padding 5px;
+      margin: 10 10 10 10;
+      background-color: orange;
+      font-family: leander-script-pro, sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      width: 1037px;
+      font-size:large ;
+      height: 300px;
+      float: right;
+      text-align: center;
+      ali
+    }
+    div {
+  width: 1025px;
+  padding: 10px;
+  border: 5px solid orange;
+  margin: 0; position: static;
+  border: 3px solid burlywood;
+  ;
+}
+h3{font-family: worker, serif;
+font-style: normal;
+font-weight: 300;}
+
+h1{font-family: worker, serif;
+font-style: normal;
+font-weight: 300;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
+    </style>
